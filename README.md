@@ -23,3 +23,4 @@ A OpenGL and C++ -based simulation project visualizing a journey from Earth to M
 ![image](https://github.com/user-attachments/assets/ced1361e-decb-4d3e-a9ee-974b53a2bb78)
 
 ![image](https://github.com/user-attachments/assets/24f8e032-2aa5-4463-bde0-dc93e1a91ba9)
+
