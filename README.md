@@ -3,10 +3,10 @@ A OpenGL and C++ -based simulation project visualizing a journey from Earth to M
 
 # 🌍 Project Scenarios
 
-1. # Rocket Launch from Earth – With animated liftoff
-2. # Crossing Earth’s Atmosphere – Transition visuals
-3. # Space Travel – Stars, black background, floating
-4. #  Mars Landing – Red planet terrain with landing scene
+1. Rocket Launch from Earth – With animated liftoff
+2. Crossing Earth’s Atmosphere – Transition visuals
+3. Space Travel – Stars, black background, floating
+4.  Mars Landing – Red planet terrain with landing scene
 
 # 🛠 Technologies Used
 
